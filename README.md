@@ -17,7 +17,7 @@ Aiden Griggs (Quality Control)
 XorTroll (Brew.js)  
 mactec0 (2Planes Codebase)  
 Manurocker95 (Persistent Save Data)  
-Modern Vintage Gamer (Switchbrew video)  
+Modern Vintage Gamer (Switchbrew get started video)  
 
 
 
