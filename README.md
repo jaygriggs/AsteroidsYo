@@ -13,8 +13,8 @@ Please report issues through GitHub
 
 Special Thanks  
 
-Aiden Griggs (Quality Control)
-XorTroll (Brew.js)
+Aiden Griggs (Quality Control)  
+XorTroll (Brew.js)  
 mactec0 (Codebase)  
 Manurocker95 (Persistent Save Data)  
 Modern Vintage Gamer (Switchbrew video)  
