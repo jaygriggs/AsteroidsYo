@@ -9,7 +9,7 @@ Freezes when docked
 
 Switchbrew C++ version 1.01 has no known bugs  
 Please report issues through GitHub  
-Compiled Version Here
+Compiled Version [HERE](www.google.com)
 
 
 Special Thanks  
