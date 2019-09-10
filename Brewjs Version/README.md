@@ -6,10 +6,13 @@ Brew.js is Node.js for embedded devices
 
 Brew.js version has many bugs including performance issues and also  
 Freezes when docked  
+Compiled Version [HERE](https://drive.google.com/file/d/1JuABJEp5Yk515OoCnYPXYlMqupC0hicl/view?usp=sharing)
+
+
 
 Switchbrew C++ version 1.01 has no known bugs  
 Please report issues through GitHub  
-Compiled Version [HERE](https://www.google.com)
+
 
 
 Special Thanks  
