@@ -11,7 +11,7 @@ Switchbrew C++ version 1.01 has no known bugs
 Please report issues through GitHub  
 
 Compiled Version [HERE](https://drive.google.com/drive/folders/1A3uWwiEA5NhTwx3hCA7fLaQCuz3Vgcgg)
-
+Put in switch folder  
 
 Special Thanks  
 
