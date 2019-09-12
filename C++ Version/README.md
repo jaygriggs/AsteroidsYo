@@ -21,4 +21,6 @@ mactec0 (2Planes Codebase)
 Manurocker95 (Persistent Save Data)  
 Modern Vintage Gamer (Switchbrew get started video)  
 
+If there's interest I'll clean up the code and open source the project
+
 
