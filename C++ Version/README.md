@@ -13,6 +13,9 @@ Please report issues through GitHub
 Compiled Version [HERE](https://drive.google.com/drive/folders/1A3uWwiEA5NhTwx3hCA7fLaQCuz3Vgcgg)  
 Put in switch folder  
 
+Controller  
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)  
+
 Special Thanks  
 
 Aiden Griggs (Quality Control)  
