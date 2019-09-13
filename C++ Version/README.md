@@ -3,8 +3,8 @@ A Nintendo Switch Homebrew Game
 
 
 
-Brew.js version has many bugs including performance issues and also  
-Freezes when docked  
+Brew.js version has many bugs including performance issues 
+and also freezes when docked.  
 
 Switchbrew C++ version 1.01 has no known bugs 
 
@@ -14,11 +14,13 @@ Compiled Version [HERE](https://drive.google.com/drive/folders/1A3uWwiEA5NhTwx3h
 Put in switch folder  
 
 Controller  
+
 ![Controller Controls](https://github.com/jaygriggs/AsteroidsYo/blob/master/C%2B%2B%20Version/Contoller%20Controls.png)  
 
 
 Touch   
-![Touch Controls](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)  
+
+![Touch Controls](https://github.com/jaygriggs/AsteroidsYo/blob/master/C%2B%2B%20Version/Touch%20Controls.png)  
 
 
 Special Thanks  
