@@ -14,7 +14,12 @@ Compiled Version [HERE](https://drive.google.com/drive/folders/1A3uWwiEA5NhTwx3h
 Put in switch folder  
 
 Controller  
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)  
+![Controller Controls](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)  
+
+
+Touch   
+![Touch Controls](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)  
+
 
 Special Thanks  
 
