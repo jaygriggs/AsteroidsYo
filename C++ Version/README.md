@@ -14,7 +14,7 @@ Compiled Version [HERE](https://drive.google.com/drive/folders/1A3uWwiEA5NhTwx3h
 Put in switch folder  
 
 Controller  
-![Controller Controls](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)  
+![Controller Controls](https://github.com/jaygriggs/AsteroidsYo/blob/master/C%2B%2B%20Version/Contoller%20Controls.png)  
 
 
 Touch   
