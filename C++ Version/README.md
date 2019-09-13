@@ -18,7 +18,7 @@ Compiled Version [HERE](https://drive.google.com/drive/folders/1A3uWwiEA5NhTwx3h
 
 Controller  
 
-![Controller Controls](https://github.com/jaygriggs/AsteroidsYo/blob/master/C%2B%2B%20Version/Contoller%20Controls.png)  
+![Controller Controls](https://github.com/jaygriggs/AsteroidsYo/blob/master/C%2B%2B%20Version/ContollerControls.png)  
 
 
 Touch   
