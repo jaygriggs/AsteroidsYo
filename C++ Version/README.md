@@ -13,8 +13,8 @@ Please report issues through GitHub
 
 MUST HAVE CUSTOM FIRMWARE 
 Compiled Version [HERE](https://drive.google.com/drive/folders/1A3uWwiEA5NhTwx3hCA7fLaQCuz3Vgcgg)  
-1Put in switch folder
-2Profit!!!
+1Put in switch folder  
+2Profit!!!  
 
 Controller  
 
