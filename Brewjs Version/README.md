@@ -6,7 +6,7 @@ Brew.js is Node.js for embedded devices
 
 Brew.js version has many bugs including performance issues and also  
 Freezes when docked  
-Compiled Version [HERE](https://drive.google.com/file/d/1JuABJEp5Yk515OoCnYPXYlMqupC0hicl/view?usp=sharing)  
+Compiled Version [HERE](https://drive.google.com/open?id=1JuABJEp5Yk515OoCnYPXYlMqupC0hicl)  
 Uncompiled version is missing Audio file (Too Large) and brew.js
 
 
