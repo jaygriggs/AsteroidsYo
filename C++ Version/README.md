@@ -6,7 +6,8 @@ A Nintendo Switch Homebrew Game
 Brew.js version has many bugs including performance issues 
 and also freezes when docked.  
 
-Switchbrew C++ version 1.01 has no known bugs 
+Switchbrew C++ version 1.01 has no known bugs  
+*Slowdown to 30FPS during final credits  
 
 Please report issues through GitHub  
 
